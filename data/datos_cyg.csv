@@ -1,0 +1,282 @@
+"dni","nombre","apellido","carrera_siglas","cohorte","idmatriculacion","estado","idpersona","carrera_siglas_20_21","cohorte_20_21","modulo_20_21","estado_20_21"
+"25758050","Silvana Rita Del V","Torres","GESTIONINI_TDIP","Agosto 2023","86569","Cursando",NULL,NULL,NULL,NULL,NULL
+"21394976","Silvia Delia","Nadaya","GESTIONINI_TDIP","Agosto 2023","86669","Cursando","1979","GESTIONINI_TDIP","Mayo 2021","METODOLOGIAEDUC","Aprobado"
+"21394976","Silvia Delia","Nadaya","GESTIONINI_TDIP","Agosto 2023","86669","Cursando","1979","GESTIONINI_TDIP","Mayo 2021","PEDAGOGIADIV_INI","Aprobado"
+"21394976","Silvia Delia","Nadaya","GESTIONINI_TDIP","Agosto 2023","86669","Cursando","1979","GESTIONINI_TDIP","Mayo 2021","ANALISIS_INI","Aprobado"
+"27673266","Paola Alejandra","Carballo","GESTIONINI_TDIP","Agosto 2023","86671","Cursando",NULL,NULL,NULL,NULL,NULL
+"22795493","Graciela Edith","Ortega","GESTIONINI_TDIP","Agosto 2023","86690","Cursando",NULL,NULL,NULL,NULL,NULL
+"20347024","Analia Andrea","Viano","GESTIONINI_TDIP","Agosto 2023","86747","Cursando",NULL,NULL,NULL,NULL,NULL
+"18024515","Gladys Ramona","Basualdo","GESTIONINI_TDIP","Agosto 2023","86749","Cursando",NULL,NULL,NULL,NULL,NULL
+"22773171","Silvia Karina","Diaz","GESTIONINI_TDIP","Agosto 2023","86762","Cursando","1292","GESTIONINI_TDIP","Marzo 2020","SISEDUC","Aprobado"
+"22773171","Silvia Karina","Diaz","GESTIONINI_TDIP","Agosto 2023","86762","Cursando","1292","GESTIONINI_TDIP","Marzo 2020","METODOLOGIAEDUC","Aprobado"
+"22773171","Silvia Karina","Diaz","GESTIONINI_TDIP","Agosto 2023","86762","Cursando","1292","GESTIONINI_TDIP","Marzo 2020","ANALISIS_INI","Aprobado"
+"24606945","Pilar","Ustarroz","GESTIONINI_TDIP","Agosto 2023","86763","Cursando",NULL,NULL,NULL,NULL,NULL
+"21514485","Fabiana Del Vall","Pecorari","GESTIONINI_TDIP","Agosto 2023","86768","Cursando",NULL,NULL,NULL,NULL,NULL
+"24013672","Carina Alejandra","Solis","GESTIONINI_TDIP","Agosto 2023","86801","Cursando condicional",NULL,NULL,NULL,NULL,NULL
+"22222760","Gabriela Del Valle","Cativa","GESTIONINI_TDIP","Agosto 2023","86806","Cursando",NULL,NULL,NULL,NULL,NULL
+"22078111","Maria Cristina","Mercol","GESTIONINI_TDIP","Agosto 2023","86830","Cursando","1349","GESTIONINI_TDIP","Mayo 2021","METODOLOGIAEDUC","Aprobado"
+"22078111","Maria Cristina","Mercol","GESTIONINI_TDIP","Agosto 2023","86830","Cursando","1349","GESTIONINI_TDIP","Mayo 2021","PEDAGOGIADIV_INI","Aprobado"
+"23158113","Balbina Veronica","Marconato","GESTIONINI_TDIP","Agosto 2023","86843","Cursando",NULL,NULL,NULL,NULL,NULL
+"30849335","Lorena Carolina","Gallo","GESTIONINI_TDIP","Agosto 2023","86903","Inactivo",NULL,NULL,NULL,NULL,NULL
+"21619912","Maria Laura Rosario","Almada","GESTIONINI_TDIP","Agosto 2023","86905","Cursando",NULL,NULL,NULL,NULL,NULL
+"21906769","Marisol Del Valle","Peralta","GESTIONINI_TDIP","Agosto 2023","86906","Cursando",NULL,NULL,NULL,NULL,NULL
+"25313742","Marisa Ester","Masuco","GESTIONINI_TDIP","Agosto 2023","86964","Cursando",NULL,NULL,NULL,NULL,NULL
+"24841871","Maricel Del Valle","Almada","GESTIONINI_TDIP","Agosto 2023","86972","Cursando",NULL,NULL,NULL,NULL,NULL
+"22795305","Maria De Los Angeles","Vazquez","GESTIONINI_TDIP","Agosto 2023","87020","Cursando",NULL,NULL,NULL,NULL,NULL
+"17481754","Nora","Pereyra","GESTIONINI_TDIP","Agosto 2023","87023","Cursando",NULL,NULL,NULL,NULL,NULL
+"24776077","Valeria Natalia","Romero","GESTIONINI_TDIP","Agosto 2023","87024","Cursando",NULL,NULL,NULL,NULL,NULL
+"22221534","Carolina Fernanda","Suarez","GESTIONINI_TDIP","Agosto 2023","87037","Cursando",NULL,NULL,NULL,NULL,NULL
+"20785514","Sandra Gabriela","Rodriguez","GESTIONINI_TDIP","Agosto 2023","87076","Cursando",NULL,NULL,NULL,NULL,NULL
+"20241431","Andrea Fabiana","Olmos","GESTIONINI_TDIP","Agosto 2023","87079","Inactivo",NULL,NULL,NULL,NULL,NULL
+"24226741","Natalia Carolina","Mitre","GESTIONINI_TDIP","Agosto 2023","87176","Cursando",NULL,NULL,NULL,NULL,NULL
+"21398595","Gabriela Del Carmen","Perales","GESTIONINI_TDIP","Agosto 2023","87229","Inactivo",NULL,NULL,NULL,NULL,NULL
+"24598001","Natalia Marina","Carranza","GESTIONINI_TDIP","Agosto 2023","87241","Cursando",NULL,NULL,NULL,NULL,NULL
+"26519873","Rebeca Del Valle","Gomez","GESTIONINI_TDIP","Agosto 2023","87253","Inactivo",NULL,NULL,NULL,NULL,NULL
+"33045424","Victoria","Farina","GESTIONPRI_TDIP","Agosto 2023","86095","Inactivo",NULL,NULL,NULL,NULL,NULL
+"25919241","Mónica Mariela","Heredia","GESTIONPRI_TDIP","Agosto 2023","86481","Cursando",NULL,NULL,NULL,NULL,NULL
+"23243658","Liliana Beatriz","Rodriguez","GESTIONPRI_TDIP","Agosto 2023","86483","Cursando",NULL,NULL,NULL,NULL,NULL
+"22738485","Gabriela Rosana","Talche","GESTIONPRI_TDIP","Agosto 2023","86484","Cursando",NULL,NULL,NULL,NULL,NULL
+"29861328","Maria Alicia","Ortiz","GESTIONPRI_TDIP","Agosto 2023","86488","Cursando",NULL,NULL,NULL,NULL,NULL
+"29463729","Azucena Del Valle","Castro","GESTIONPRI_TDIP","Agosto 2023","86495","Cursando",NULL,NULL,NULL,NULL,NULL
+"20870767","Norma Victoria","Paez","GESTIONPRI_TDIP","Agosto 2023","86499","Cursando",NULL,NULL,NULL,NULL,NULL
+"20699537","Maria Jose","Schneider","GESTIONPRI_TDIP","Agosto 2023","86502","Cursando",NULL,NULL,NULL,NULL,NULL
+"28853509","Vanesa Alejandra","Cravero","GESTIONPRI_TDIP","Agosto 2023","86505","Cursando",NULL,NULL,NULL,NULL,NULL
+"22169671","Rosana Silvina","Godoy","GESTIONPRI_TDIP","Agosto 2023","86517","Cursando",NULL,NULL,NULL,NULL,NULL
+"23544616","Rosa Ines","Baigorri","GESTIONPRI_TDIP","Agosto 2023","86521","Cursando",NULL,NULL,NULL,NULL,NULL
+"26097797","Maricel Elvira","Fernandez","GESTIONPRI_TDIP","Agosto 2023","86524","Cursando",NULL,NULL,NULL,NULL,NULL
+"21103177","Sabina Del Valle","Stampanone","GESTIONPRI_TDIP","Agosto 2023","86527","Cursando",NULL,NULL,NULL,NULL,NULL
+"30309316","Melina Del Valle","Suarez","GESTIONPRI_TDIP","Agosto 2023","86531","Cursando",NULL,NULL,NULL,NULL,NULL
+"26641717","Paula Maria","Morale","GESTIONPRI_TDIP","Agosto 2023","86541","Cursando condicional",NULL,NULL,NULL,NULL,NULL
+"20437059","Adriana Mabel","Geuna","GESTIONPRI_TDIP","Agosto 2023","86550","Cursando",NULL,NULL,NULL,NULL,NULL
+"22560458","Silvia Liliana","Olivera","GESTIONPRI_TDIP","Agosto 2023","86551","Cursando",NULL,NULL,NULL,NULL,NULL
+"28654809","Analia Mariana","Ruiz","GESTIONPRI_TDIP","Agosto 2023","86552","Cursando",NULL,NULL,NULL,NULL,NULL
+"30553414","Lorena Noemi","Manavella","GESTIONPRI_TDIP","Agosto 2023","86561","Cursando",NULL,NULL,NULL,NULL,NULL
+"23823913","Andrea Karina","Rodriguez","GESTIONPRI_TDIP","Agosto 2023","86562","Cursando",NULL,NULL,NULL,NULL,NULL
+"20762934","Karina Veronica","Simonetti","GESTIONPRI_TDIP","Agosto 2023","86563","Cursando",NULL,NULL,NULL,NULL,NULL
+"24739740","Mirta Raquel","Chavez","GESTIONPRI_TDIP","Agosto 2023","86567","Cursando",NULL,NULL,NULL,NULL,NULL
+"22794241","Mariela Ivana","Tejerina","GESTIONPRI_TDIP","Agosto 2023","86570","Cursando","470","GESTIONPRI_TDIP","Marzo 2020","SISEDUC","Aprobado"
+"22794241","Mariela Ivana","Tejerina","GESTIONPRI_TDIP","Agosto 2023","86570","Cursando","470","GESTIONPRI_TDIP","Marzo 2020","METODOLOGIAEDUC","Aprobado"
+"22794241","Mariela Ivana","Tejerina","GESTIONPRI_TDIP","Agosto 2023","86570","Cursando","470","GESTIONPRI_TDIP","Mayo 2021","METODOLOGIAEDUC","Equivalencia"
+"22794241","Mariela Ivana","Tejerina","GESTIONPRI_TDIP","Agosto 2023","86570","Cursando","470","GESTIONPRI_TDIP","Mayo 2021","SISEDUC","Equivalencia"
+"20872705","Adriana Beatriz","Peralta","GESTIONPRI_TDIP","Agosto 2023","86571","Cursando",NULL,NULL,NULL,NULL,NULL
+"25336103","Claudia Andrea","Cortes","GESTIONPRI_TDIP","Agosto 2023","86573","Cursando",NULL,NULL,NULL,NULL,NULL
+"21393820","Mariana","Nieto Carranza","GESTIONPRI_TDIP","Agosto 2023","86574","Cursando",NULL,NULL,NULL,NULL,NULL
+"31356266","Luciana Maria","Coronel","GESTIONPRI_TDIP","Agosto 2023","86576","Cursando",NULL,NULL,NULL,NULL,NULL
+"23282295","Nilda Delia","Godoy","GESTIONPRI_TDIP","Agosto 2023","86579","Cursando",NULL,NULL,NULL,NULL,NULL
+"22449576","Mariana Beatriz","Paez","GESTIONPRI_TDIP","Agosto 2023","86581","Cursando",NULL,NULL,NULL,NULL,NULL
+"22375494","Laura Alejandra","Olmos","GESTIONPRI_TDIP","Agosto 2023","86583","Cursando",NULL,NULL,NULL,NULL,NULL
+"22463710","Maria Luz Del Milagro","Molina","GESTIONPRI_TDIP","Agosto 2023","86588","Cursando",NULL,NULL,NULL,NULL,NULL
+"23993714","Zulma Del Lourdes","Velazquez","GESTIONPRI_TDIP","Agosto 2023","86592","Cursando",NULL,NULL,NULL,NULL,NULL
+"21629111","Maria De Los Angeles","Abarza","GESTIONPRI_TDIP","Agosto 2023","86593","Cursando","509","GESTIONPRI_TDIP","Marzo 2020","SISEDUC","Aprobado"
+"21629111","Maria De Los Angeles","Abarza","GESTIONPRI_TDIP","Agosto 2023","86593","Cursando","509","GESTIONPRI_TDIP","Marzo 2020","METODOLOGIAEDUC","Aprobado"
+"27173158","Ana Lorena Del Carmen","Rivera","GESTIONPRI_TDIP","Agosto 2023","86599","Cursando",NULL,NULL,NULL,NULL,NULL
+"28430574","Griselda Patricia","Paez","GESTIONPRI_TDIP","Agosto 2023","86605","Cursando",NULL,NULL,NULL,NULL,NULL
+"25184521","Maricel De Lourde","Albornoz","GESTIONPRI_TDIP","Agosto 2023","86608","Cursando",NULL,NULL,NULL,NULL,NULL
+"23383451","Carmen Isabel","Estigarribia","GESTIONPRI_TDIP","Agosto 2023","86609","Cursando",NULL,NULL,NULL,NULL,NULL
+"21629635","Noemi Magdalena","Castro","GESTIONPRI_TDIP","Agosto 2023","86611","Cursando",NULL,NULL,NULL,NULL,NULL
+"29256808","Marina Soledad","Rodriguez","GESTIONPRI_TDIP","Agosto 2023","86621","No es destinatario",NULL,NULL,NULL,NULL,NULL
+"25456317","Analia Andrea","Stimolo","GESTIONPRI_TDIP","Agosto 2023","86627","Cursando","3767","GESTIONPRI_TDIP","Marzo 2020","METODOLOGIAEDUC","Aprobado"
+"30565607","Cecilia Antonieta","Pinto","GESTIONPRI_TDIP","Agosto 2023","86631","Cursando",NULL,NULL,NULL,NULL,NULL
+"22186414","Laura Andrea","Enrria","GESTIONPRI_TDIP","Agosto 2023","86632","Cursando",NULL,NULL,NULL,NULL,NULL
+"21399278","Fabiana Del V.","Juarez","GESTIONPRI_TDIP","Agosto 2023","86635","Cursando",NULL,NULL,NULL,NULL,NULL
+"21712583","Juana Irma","Azcurra","GESTIONPRI_TDIP","Agosto 2023","86637","Cursando",NULL,NULL,NULL,NULL,NULL
+"20268307","Graciela Nancy","Gil","GESTIONPRI_TDIP","Agosto 2023","86640","Cursando",NULL,NULL,NULL,NULL,NULL
+"22843233","Gabriela","Amor","GESTIONPRI_TDIP","Agosto 2023","86642","Cursando",NULL,NULL,NULL,NULL,NULL
+"17844974","Ines Graciela","Dominguez","GESTIONPRI_TDIP","Agosto 2023","86643","Cursando",NULL,NULL,NULL,NULL,NULL
+"24286460","Betiana Del Valle","Luna","GESTIONPRI_TDIP","Agosto 2023","86654","Cursando",NULL,NULL,NULL,NULL,NULL
+"23161808","Silvia Alejandra","Davila","GESTIONPRI_TDIP","Agosto 2023","86656","Cursando",NULL,NULL,NULL,NULL,NULL
+"25858495","Silvia Mariela","Gallardo","GESTIONPRI_TDIP","Agosto 2023","86658","Cursando",NULL,NULL,NULL,NULL,NULL
+"29135088","Gabriela Susana","Robotti","GESTIONPRI_TDIP","Agosto 2023","86662","Cursando","13145","GESTIONPRI_TDIP","Mayo 2021","METODOLOGIAEDUC","Aprobado"
+"29135088","Gabriela Susana","Robotti","GESTIONPRI_TDIP","Agosto 2023","86662","Cursando","13145","GESTIONPRI_TDIP","Mayo 2021","PEDAGOGIADIV_PRI","Aprobado"
+"29135088","Gabriela Susana","Robotti","GESTIONPRI_TDIP","Agosto 2023","86662","Cursando","13145","GESTIONPRI_TDIP","Mayo 2021","ANALISIS_PRI","Aprobado"
+"29135088","Gabriela Susana","Robotti","GESTIONPRI_TDIP","Agosto 2023","86662","Cursando","13145","GESTIONPRI_TDIP","Mayo 2021","SISEDUC","Aprobado"
+"29189552","Patricia Verónica","Ghione","GESTIONPRI_TDIP","Agosto 2023","86667","Cursando",NULL,NULL,NULL,NULL,NULL
+"24961739","Laura Mariela","Marttoglio","GESTIONPRI_TDIP","Agosto 2023","86668","Cursando",NULL,NULL,NULL,NULL,NULL
+"30021642","Mariana","Manterola","GESTIONPRI_TDIP","Agosto 2023","86670","Cursando",NULL,NULL,NULL,NULL,NULL
+"25405784","Gabriela Anabel","Barile","GESTIONPRI_TDIP","Agosto 2023","86685","Cursando",NULL,NULL,NULL,NULL,NULL
+"20622070","Alicia Ines","Quinteros Moyano","GESTIONPRI_TDIP","Agosto 2023","86687","Cursando",NULL,NULL,NULL,NULL,NULL
+"21013309","Sandra Patricia","Piedi","GESTIONPRI_TDIP","Agosto 2023","86691","Cursando",NULL,NULL,NULL,NULL,NULL
+"18673298","Donatila Susana","Contreras","GESTIONPRI_TDIP","Agosto 2023","86701","Cursando",NULL,NULL,NULL,NULL,NULL
+"21753946","Nora Cecilia","Murina","GESTIONPRI_TDIP","Agosto 2023","86704","Cursando",NULL,NULL,NULL,NULL,NULL
+"21723499","Sylvia Karina","Gerosa","GESTIONPRI_TDIP","Agosto 2023","86721","Cursando",NULL,NULL,NULL,NULL,NULL
+"23334395","Marisabel Del Valle","Gastaldello","GESTIONPRI_TDIP","Agosto 2023","86725","Cursando",NULL,NULL,NULL,NULL,NULL
+"23661972","Andrea Silvana","Pron","GESTIONPRI_TDIP","Agosto 2023","86733","Cursando",NULL,NULL,NULL,NULL,NULL
+"29417410","Maria Jorgelina","Melidoro","GESTIONPRI_TDIP","Agosto 2023","86734","Cursando","15090","GESTIONPRI_TDIP","Mayo 2021","METODOLOGIAEDUC","Aprobado"
+"29417410","Maria Jorgelina","Melidoro","GESTIONPRI_TDIP","Agosto 2023","86734","Cursando","15090","GESTIONPRI_TDIP","Mayo 2021","PEDAGOGIADIV_PRI","Aprobado"
+"25456299","Silvia Noemi","Flores","GESTIONPRI_TDIP","Agosto 2023","86743","Cursando",NULL,NULL,NULL,NULL,NULL
+"23055649","Rossana Elizabeth","González","GESTIONPRI_TDIP","Agosto 2023","86744","Cursando",NULL,NULL,NULL,NULL,NULL
+"22224102","Maria Eugenia","Cesar","GESTIONPRI_TDIP","Agosto 2023","86754","Cursando","3762","GESTIONPRI_TDIP","Marzo 2020","SISEDUC","Aprobado"
+"22224102","Maria Eugenia","Cesar","GESTIONPRI_TDIP","Agosto 2023","86754","Cursando","3762","GESTIONPRI_TDIP","Marzo 2020","METODOLOGIAEDUC","Aprobado"
+"22224102","Maria Eugenia","Cesar","GESTIONPRI_TDIP","Agosto 2023","86754","Cursando","3762","GESTIONPRI_TDIP","Marzo 2020","LECYESC","Aprobado"
+"22224102","Maria Eugenia","Cesar","GESTIONPRI_TDIP","Agosto 2023","86754","Cursando","3762","GESTIONPRI_TDIP","Marzo 2020","ANALISIS_PRI","Aprobado"
+"22224102","Maria Eugenia","Cesar","GESTIONPRI_TDIP","Agosto 2023","86754","Cursando","3762","GESTIONPRI_TDIP","Marzo 2020","ESTADISTICA","Aprobado"
+"22224102","Maria Eugenia","Cesar","GESTIONPRI_TDIP","Agosto 2023","86754","Cursando","3762","GESTIONPRI_TDIP","Marzo 2020","PEDAGOGIADIV_PRI","Aprobado"
+"22224102","Maria Eugenia","Cesar","GESTIONPRI_TDIP","Agosto 2023","86754","Cursando","3762","GESTIONPRI_TDIP","Mayo 2021 (finalización cohorte 2020)","METODOLOGIAEDUC","Equivalencia"
+"22224102","Maria Eugenia","Cesar","GESTIONPRI_TDIP","Agosto 2023","86754","Cursando","3762","GESTIONPRI_TDIP","Mayo 2021 (finalización cohorte 2020)","PEDAGOGIADIV_PRI","Equivalencia"
+"22224102","Maria Eugenia","Cesar","GESTIONPRI_TDIP","Agosto 2023","86754","Cursando","3762","GESTIONPRI_TDIP","Mayo 2021 (finalización cohorte 2020)","ANALISIS_PRI","Equivalencia"
+"22224102","Maria Eugenia","Cesar","GESTIONPRI_TDIP","Agosto 2023","86754","Cursando","3762","GESTIONPRI_TDIP","Mayo 2021 (finalización cohorte 2020)","ESTADISTICA","Equivalencia"
+"22224102","Maria Eugenia","Cesar","GESTIONPRI_TDIP","Agosto 2023","86754","Cursando","3762","GESTIONPRI_TDIP","Mayo 2021 (finalización cohorte 2020)","SISEDUC","Equivalencia"
+"22224102","Maria Eugenia","Cesar","GESTIONPRI_TDIP","Agosto 2023","86754","Cursando","3762","GESTIONPRI_TDIP","Mayo 2021 (finalización cohorte 2020)","LECYESC","Equivalencia"
+"21967216","Graciela Maria","Glorioso","GESTIONPRI_TDIP","Agosto 2023","86758","Cursando",NULL,NULL,NULL,NULL,NULL
+"20286505","Marcela Norma","Gonzalez","GESTIONPRI_TDIP","Agosto 2023","86761","Cursando",NULL,NULL,NULL,NULL,NULL
+"17530867","Patricia Mabel","Torres","GESTIONPRI_TDIP","Agosto 2023","86771","Cursando",NULL,NULL,NULL,NULL,NULL
+"22273861","Nilda Beatriz","Gomez","GESTIONPRI_TDIP","Agosto 2023","86779","Cursando",NULL,NULL,NULL,NULL,NULL
+"24953964","Clara Estela","Roldan","GESTIONPRI_TDIP","Agosto 2023","86792","Cursando",NULL,NULL,NULL,NULL,NULL
+"30680931","Maria Belen","Diaz","GESTIONPRI_TDIP","Agosto 2023","86795","Cursando",NULL,NULL,NULL,NULL,NULL
+"24606162","Paola Karina","Rodriguez","GESTIONPRI_TDIP","Agosto 2023","86797","Cursando condicional",NULL,NULL,NULL,NULL,NULL
+"27871376","Analia","Rojas","GESTIONPRI_TDIP","Agosto 2023","86798","Cursando",NULL,NULL,NULL,NULL,NULL
+"26514150","Sonia Valeria","Mattia","GESTIONPRI_TDIP","Agosto 2023","86800","Cursando",NULL,NULL,NULL,NULL,NULL
+"21410037","Andrea Fabiana","Marchiori","GESTIONPRI_TDIP","Agosto 2023","86804","Cursando","3725","GESTIONPRI_TDIP","Mayo 2021","METODOLOGIAEDUC","Aprobado"
+"21410037","Andrea Fabiana","Marchiori","GESTIONPRI_TDIP","Agosto 2023","86804","Cursando","3725","GESTIONPRI_TDIP","Mayo 2021","PEDAGOGIADIV_PRI","Aprobado"
+"21410037","Andrea Fabiana","Marchiori","GESTIONPRI_TDIP","Agosto 2023","86804","Cursando","3725","GESTIONPRI_TDIP","Mayo 2021","ANALISIS_PRI","Aprobado"
+"21402410","Miriam Silvana","Carrizo","GESTIONPRI_TDIP","Agosto 2023","86807","Inactivo",NULL,NULL,NULL,NULL,NULL
+"26558175","Yanina Valeria","Canaparo","GESTIONPRI_TDIP","Agosto 2023","86808","Cursando",NULL,NULL,NULL,NULL,NULL
+"21904945","Claudia Andrea","Oviedo","GESTIONPRI_TDIP","Agosto 2023","86812","Cursando condicional",NULL,NULL,NULL,NULL,NULL
+"20081412","Lucia Isabel","Ambrosio","GESTIONPRI_TDIP","Agosto 2023","86816","Cursando",NULL,NULL,NULL,NULL,NULL
+"20073847","Alejandra Gloria","Patat","GESTIONPRI_TDIP","Agosto 2023","86817","Cursando",NULL,NULL,NULL,NULL,NULL
+"23089339","Soledad Noemi","Dago","GESTIONPRI_TDIP","Agosto 2023","86822","Cursando","1329","GESTIONPRI_TDIP","Marzo 2020","SISEDUC","Aprobado"
+"23089339","Soledad Noemi","Dago","GESTIONPRI_TDIP","Agosto 2023","86822","Cursando","1329","GESTIONPRI_TDIP","Marzo 2020","METODOLOGIAEDUC","Aprobado"
+"23089339","Soledad Noemi","Dago","GESTIONPRI_TDIP","Agosto 2023","86822","Cursando","1329","GESTIONPRI_TDIP","Marzo 2020","ANALISIS_PRI","Aprobado"
+"23089339","Soledad Noemi","Dago","GESTIONPRI_TDIP","Agosto 2023","86822","Cursando","1329","GESTIONPRI_TDIP","Mayo 2021","METODOLOGIAEDUC","Equivalencia"
+"23089339","Soledad Noemi","Dago","GESTIONPRI_TDIP","Agosto 2023","86822","Cursando","1329","GESTIONPRI_TDIP","Mayo 2021","PEDAGOGIADIV_PRI","Aprobado"
+"23089339","Soledad Noemi","Dago","GESTIONPRI_TDIP","Agosto 2023","86822","Cursando","1329","GESTIONPRI_TDIP","Mayo 2021","ANALISIS_PRI","Equivalencia"
+"23089339","Soledad Noemi","Dago","GESTIONPRI_TDIP","Agosto 2023","86822","Cursando","1329","GESTIONPRI_TDIP","Mayo 2021","SISEDUC","Equivalencia"
+"29374080","Ivana Daniela","Gomez","GESTIONPRI_TDIP","Agosto 2023","86823","Cursando","13925","GESTIONPRI_TDIP","Mayo 2021","PEDAGOGIADIV_PRI","Aprobado"
+"29374080","Ivana Daniela","Gomez","GESTIONPRI_TDIP","Agosto 2023","86823","Cursando","13925","GESTIONPRI_TDIP","Mayo 2021","ANALISIS_PRI","Aprobado"
+"29374080","Ivana Daniela","Gomez","GESTIONPRI_TDIP","Agosto 2023","86823","Cursando","13925","GESTIONPRI_TDIP","Mayo 2021","ESTADISTICA","Aprobado"
+"29374080","Ivana Daniela","Gomez","GESTIONPRI_TDIP","Agosto 2023","86823","Cursando","13925","GESTIONPRI_TDIP","Mayo 2021","SISEDUC","Aprobado"
+"23736314","Veronica","Romanzini","GESTIONPRI_TDIP","Agosto 2023","86825","Cursando","1362","GESTIONPRI_TDIP","Mayo 2021","METODOLOGIAEDUC","Aprobado"
+"23736314","Veronica","Romanzini","GESTIONPRI_TDIP","Agosto 2023","86825","Cursando","1362","GESTIONPRI_TDIP","Mayo 2021","PEDAGOGIADIV_PRI","Aprobado"
+"23736314","Veronica","Romanzini","GESTIONPRI_TDIP","Agosto 2023","86825","Cursando","1362","GESTIONPRI_TDIP","Mayo 2021","ANALISIS_PRI","Aprobado"
+"23736314","Veronica","Romanzini","GESTIONPRI_TDIP","Agosto 2023","86825","Cursando","1362","GESTIONPRI_TDIP","Mayo 2021","LECYESC","Aprobado"
+"26078317","Maria Jose","Comba","GESTIONPRI_TDIP","Agosto 2023","86826","Cursando",NULL,NULL,NULL,NULL,NULL
+"20407235","Viviana Cristina","Poyancini","GESTIONPRI_TDIP","Agosto 2023","86833","Cursando",NULL,NULL,NULL,NULL,NULL
+"25229741","Monica Alejandra","Garcia","GESTIONPRI_TDIP","Agosto 2023","86840","Cursando",NULL,NULL,NULL,NULL,NULL
+"14074435","Juthid Beatriz","Briggs","GESTIONPRI_TDIP","Agosto 2023","86850","Cursando",NULL,NULL,NULL,NULL,NULL
+"23497302","Silvia Natalia","Martinetto","GESTIONPRI_TDIP","Agosto 2023","86853","Cursando",NULL,NULL,NULL,NULL,NULL
+"21396524","Mafalda Nazaria","Lacamoira","GESTIONPRI_TDIP","Agosto 2023","86856","Cursando",NULL,NULL,NULL,NULL,NULL
+"18853991","Blanca Nelly","Maza Rivas","GESTIONPRI_TDIP","Agosto 2023","86858","Cursando",NULL,NULL,NULL,NULL,NULL
+"20700202","Mónica Ester","Lasagno","GESTIONPRI_TDIP","Agosto 2023","86866","Cursando",NULL,NULL,NULL,NULL,NULL
+"23022120","Marisa Elizabeth","Giralt","GESTIONPRI_TDIP","Agosto 2023","86867","Cursando",NULL,NULL,NULL,NULL,NULL
+"25891314","Paula Andrea","Dalla Costa","GESTIONPRI_TDIP","Agosto 2023","86889","Cursando",NULL,NULL,NULL,NULL,NULL
+"24089499","Claudia Roxana","Villagra","GESTIONPRI_TDIP","Agosto 2023","86891","Cursando",NULL,NULL,NULL,NULL,NULL
+"20439810","Viviana Beatriz","Valle","GESTIONPRI_TDIP","Agosto 2023","86915","Cursando","566","GESTIONPRI_TDIP","Marzo 2020","SISEDUC","Aprobado"
+"20439810","Viviana Beatriz","Valle","GESTIONPRI_TDIP","Agosto 2023","86915","Cursando","566","GESTIONPRI_TDIP","Marzo 2020","METODOLOGIAEDUC","Aprobado"
+"20439810","Viviana Beatriz","Valle","GESTIONPRI_TDIP","Agosto 2023","86915","Cursando","566","GESTIONPRI_TDIP","Mayo 2021","METODOLOGIAEDUC","Equivalencia"
+"20439810","Viviana Beatriz","Valle","GESTIONPRI_TDIP","Agosto 2023","86915","Cursando","566","GESTIONPRI_TDIP","Mayo 2021","SISEDUC","Equivalencia"
+"22766856","Maria Fernanda","Centurion","GESTIONPRI_TDIP","Agosto 2023","86919","Cursando",NULL,NULL,NULL,NULL,NULL
+"23161855","Juana Teresa","Castro","GESTIONPRI_TDIP","Agosto 2023","86921","Cursando",NULL,NULL,NULL,NULL,NULL
+"26814102","Valeria Soledad","De La Vega","GESTIONPRI_TDIP","Agosto 2023","86928","Cursando",NULL,NULL,NULL,NULL,NULL
+"20873985","Maria Ines","Durieux","GESTIONPRI_TDIP","Agosto 2023","86930","Cursando",NULL,NULL,NULL,NULL,NULL
+"23870903","Maria Daniela","Alave","GESTIONPRI_TDIP","Agosto 2023","86931","Cursando",NULL,NULL,NULL,NULL,NULL
+"22394998","Roxana Isabel","Cassinelli","GESTIONPRI_TDIP","Agosto 2023","86933","Cursando",NULL,NULL,NULL,NULL,NULL
+"29446715","Paola Beatriz","Aguirre","GESTIONPRI_TDIP","Agosto 2023","86940","Cursando",NULL,NULL,NULL,NULL,NULL
+"25198539","Roxana Marcela","Lema","GESTIONPRI_TDIP","Agosto 2023","86943","Cursando","13368","GESTIONPRI_TDIP","Mayo 2021","METODOLOGIAEDUC","Aprobado"
+"25198539","Roxana Marcela","Lema","GESTIONPRI_TDIP","Agosto 2023","86943","Cursando","13368","GESTIONPRI_TDIP","Mayo 2021","PEDAGOGIADIV_PRI","Aprobado"
+"25198539","Roxana Marcela","Lema","GESTIONPRI_TDIP","Agosto 2023","86943","Cursando","13368","GESTIONPRI_TDIP","Mayo 2021","ANALISIS_PRI","Aprobado"
+"27669662","Natalia","Ammann","GESTIONPRI_TDIP","Agosto 2023","86970","Cursando",NULL,NULL,NULL,NULL,NULL
+"20621059","Graciela Del Valle","Bisaro","GESTIONPRI_TDIP","Agosto 2023","86991","Cursando","1628","GESTIONPRI_TDIP","Mayo 2021","METODOLOGIAEDUC","Aprobado"
+"20621059","Graciela Del Valle","Bisaro","GESTIONPRI_TDIP","Agosto 2023","86991","Cursando","1628","GESTIONPRI_TDIP","Mayo 2021","PEDAGOGIADIV_PRI","Aprobado"
+"23057927","Jorgelina","Rodriguez","GESTIONPRI_TDIP","Agosto 2023","86998","Cursando",NULL,NULL,NULL,NULL,NULL
+"21967740","Elizabeth Elena","Serna","GESTIONPRI_TDIP","Agosto 2023","87005","No es destinatario",NULL,NULL,NULL,NULL,NULL
+"23065014","Sandra Maria","Aira","GESTIONPRI_TDIP","Agosto 2023","87009","Cursando",NULL,NULL,NULL,NULL,NULL
+"23278506","Monica Beatriz","Oviedo","GESTIONPRI_TDIP","Agosto 2023","87043","No es destinatario",NULL,NULL,NULL,NULL,NULL
+"23252075","Monica Maria","Gerbaldo","GESTIONPRI_TDIP","Agosto 2023","87048","Cursando",NULL,NULL,NULL,NULL,NULL
+"16947236","Nelida Cristina","Toledo","GESTIONPRI_TDIP","Agosto 2023","87085","Cursando",NULL,NULL,NULL,NULL,NULL
+"22034294","Laura Beatriz","Scruzzo","GESTIONPRI_TDIP","Agosto 2023","87091","Cursando condicional",NULL,NULL,NULL,NULL,NULL
+"17052604","Maria Alejandra","Ditolbe","GESTIONPRI_TDIP","Agosto 2023","87148","Cursando",NULL,NULL,NULL,NULL,NULL
+"23266272","Carmen Elizabeth","Moyano","GESTIONPRI_TDIP","Agosto 2023","87152","Cursando","1093","GESTIONPRI_TDIP","Marzo 2020","SISEDUC","Aprobado"
+"23266272","Carmen Elizabeth","Moyano","GESTIONPRI_TDIP","Agosto 2023","87152","Cursando","1093","GESTIONPRI_TDIP","Marzo 2020","METODOLOGIAEDUC","Aprobado"
+"23266272","Carmen Elizabeth","Moyano","GESTIONPRI_TDIP","Agosto 2023","87152","Cursando","1093","GESTIONPRI_TDIP","Marzo 2020","ANALISIS_PRI","Aprobado"
+"23266272","Carmen Elizabeth","Moyano","GESTIONPRI_TDIP","Agosto 2023","87152","Cursando","1093","GESTIONPRI_TDIP","Marzo 2020","ESTADISTICA","Aprobado"
+"23266272","Carmen Elizabeth","Moyano","GESTIONPRI_TDIP","Agosto 2023","87152","Cursando","1093","GESTIONPRI_TDIP","Marzo 2020","PEDAGOGIADIV_PRI","Aprobado"
+"23266272","Carmen Elizabeth","Moyano","GESTIONPRI_TDIP","Agosto 2023","87152","Cursando","1093","GESTIONPRI_TDIP","Mayo 2021 (finalización cohorte 2020)","METODOLOGIAEDUC","Equivalencia"
+"23266272","Carmen Elizabeth","Moyano","GESTIONPRI_TDIP","Agosto 2023","87152","Cursando","1093","GESTIONPRI_TDIP","Mayo 2021 (finalización cohorte 2020)","PEDAGOGIADIV_PRI","Equivalencia"
+"23266272","Carmen Elizabeth","Moyano","GESTIONPRI_TDIP","Agosto 2023","87152","Cursando","1093","GESTIONPRI_TDIP","Mayo 2021 (finalización cohorte 2020)","ANALISIS_PRI","Equivalencia"
+"23266272","Carmen Elizabeth","Moyano","GESTIONPRI_TDIP","Agosto 2023","87152","Cursando","1093","GESTIONPRI_TDIP","Mayo 2021 (finalización cohorte 2020)","ESTADISTICA","Equivalencia"
+"23266272","Carmen Elizabeth","Moyano","GESTIONPRI_TDIP","Agosto 2023","87152","Cursando","1093","GESTIONPRI_TDIP","Mayo 2021 (finalización cohorte 2020)","SISEDUC","Equivalencia"
+"23282527","Carina Silvana","Gotta","GESTIONPRI_TDIP","Agosto 2023","87160","Cursando",NULL,NULL,NULL,NULL,NULL
+"21402418","Haydee Del Valle","Juarez","GESTIONPRI_TDIP","Agosto 2023","87161","Cursando",NULL,NULL,NULL,NULL,NULL
+"28486573","Teresa Norma","Romero","GESTIONPRI_TDIP","Agosto 2023","87172","Cursando",NULL,NULL,NULL,NULL,NULL
+"21550105","Elda Alicia","Salguero","GESTIONPRI_TDIP","Agosto 2023","87173","Inactivo",NULL,NULL,NULL,NULL,NULL
+"21401786","Gabriela De Lourdes","Taborda","GESTIONPRI_TDIP","Agosto 2023","87179","Cursando",NULL,NULL,NULL,NULL,NULL
+"20643506","Elizabeth Liliana","Albert","GESTIONPRI_TDIP","Agosto 2023","87184","Cursando",NULL,NULL,NULL,NULL,NULL
+"22561595","Alejandra Catalina","Palacios","GESTIONPRI_TDIP","Agosto 2023","87197","Cursando",NULL,NULL,NULL,NULL,NULL
+"29203187","Julieta","Novelli","GESTIONPRI_TDIP","Agosto 2023","87199","Cursando",NULL,NULL,NULL,NULL,NULL
+"21514160","Sonia Marcela","Luna","GESTIONPRI_TDIP","Agosto 2023","87208","Cursando",NULL,NULL,NULL,NULL,NULL
+"23821740","Mariana Karina","Ferrari","GESTIONPRI_TDIP","Agosto 2023","87214","Cursando",NULL,NULL,NULL,NULL,NULL
+"27362093","Vanesa Evangelina","Salina","GESTIONPRI_TDIP","Agosto 2023","87224","Cursando",NULL,NULL,NULL,NULL,NULL
+"21182091","Jose Alberto","Herrera","GESTIONPRI_TDIP","Agosto 2023","87230","Cursando",NULL,NULL,NULL,NULL,NULL
+"24605808","Claudia Andrea","Gomez Vega","GESTIONPRI_TDIP","Agosto 2023","87231","Cursando",NULL,NULL,NULL,NULL,NULL
+"20749081","Maria De Fatima","Diaz","GESTIONPRI_TDIP","Agosto 2023","87288","Cursando",NULL,NULL,NULL,NULL,NULL
+"22096596","Rodolfo Claudio","Ledesma","GESTIONPRI_TDIP","Agosto 2023","87356","Cursando",NULL,NULL,NULL,NULL,NULL
+"23458250","Marcela Carolina Del Valle","Pagliero","GESTIONPRI_TDIP","Agosto 2023","87453","Cursando",NULL,NULL,NULL,NULL,NULL
+"29023872","Maria Natalia","Ramirez","GESTIONSEC_TDIP","Agosto 2023","86518","Cursando",NULL,NULL,NULL,NULL,NULL
+"24015294","Paula","Gigena Damiano","GESTIONSEC_TDIP","Agosto 2023","86525","Cursando",NULL,NULL,NULL,NULL,NULL
+"21404264","Ruben Dario","Demonte","GESTIONSEC_TDIP","Agosto 2023","86533","Cursando",NULL,NULL,NULL,NULL,NULL
+"25547615","Paula Elvira","Cabrera","GESTIONSEC_TDIP","Agosto 2023","86536","Cursando",NULL,NULL,NULL,NULL,NULL
+"22027881","Gisela Alina","Meza","GESTIONSEC_TDIP","Agosto 2023","86538","Cursando",NULL,NULL,NULL,NULL,NULL
+"28584010","Erica Alejandra","Isaguirre","GESTIONSEC_TDIP","Agosto 2023","86548","Cursando",NULL,NULL,NULL,NULL,NULL
+"26641508","Marcela","Nieto Carranza","GESTIONSEC_TDIP","Agosto 2023","86549","Cursando",NULL,NULL,NULL,NULL,NULL
+"16781710","Alberto Horacio","Lehmann","GESTIONSEC_TDIP","Agosto 2023","86553","No es destinatario","13536","GESTIONSEC_TDIP","Mayo 2021","METODOLOGIAEDUC","Aprobado"
+"16781710","Alberto Horacio","Lehmann","GESTIONSEC_TDIP","Agosto 2023","86553","No es destinatario","13536","GESTIONSEC_TDIP","Mayo 2021","PEDAGOGIADIV_SEC","Aprobado"
+"24769596","Marcelo Ariel","Arevalo","GESTIONSEC_TDIP","Agosto 2023","86565","Cursando",NULL,NULL,NULL,NULL,NULL
+"24241716","Maria Carolina","Mottola","GESTIONSEC_TDIP","Agosto 2023","86568","Cursando",NULL,NULL,NULL,NULL,NULL
+"25349718","Aldo German","Farroni Sanchez","GESTIONSEC_TDIP","Agosto 2023","86575","Cursando",NULL,NULL,NULL,NULL,NULL
+"22760152","Analia Beatriz","Brunori","GESTIONSEC_TDIP","Agosto 2023","86578","Cursando",NULL,NULL,NULL,NULL,NULL
+"22561576","Silvina Veronica","Oviedo","GESTIONSEC_TDIP","Agosto 2023","86603","Cursando",NULL,NULL,NULL,NULL,NULL
+"25045572","Maria Josefina","Gomez","GESTIONSEC_TDIP","Agosto 2023","86607","Cursando",NULL,NULL,NULL,NULL,NULL
+"24668914","Iris Silvana","Costamagna","GESTIONSEC_TDIP","Agosto 2023","86615","Cursando condicional",NULL,NULL,NULL,NULL,NULL
+"27185517","Lucas Matias","Olivero","GESTIONSEC_TDIP","Agosto 2023","86617","Cursando",NULL,NULL,NULL,NULL,NULL
+"21790265","Miriam Clementina","Rios","GESTIONSEC_TDIP","Agosto 2023","86620","Cursando","10033","GESTIONSEC_TDIP","Mayo 2021","METODOLOGIAEDUC","Aprobado"
+"21790265","Miriam Clementina","Rios","GESTIONSEC_TDIP","Agosto 2023","86620","Cursando","10033","GESTIONSEC_TDIP","Mayo 2021","PEDAGOGIADIV_SEC","Aprobado"
+"26105279","Marina Helena","Blengini Parisod","GESTIONSEC_TDIP","Agosto 2023","86630","No es destinatario",NULL,NULL,NULL,NULL,NULL
+"28653702","Violeta Virginia","Jimenez Rodriguez","GESTIONSEC_TDIP","Agosto 2023","86639","Cursando",NULL,NULL,NULL,NULL,NULL
+"28535098","Maria Celeste","Moreyra","GESTIONSEC_TDIP","Agosto 2023","86651","Inactivo",NULL,NULL,NULL,NULL,NULL
+"16506603","Sonia Maria","Gonzalez","GESTIONSEC_TDIP","Agosto 2023","86653","Cursando",NULL,NULL,NULL,NULL,NULL
+"23752477","Monica","Rapetti","GESTIONSEC_TDIP","Agosto 2023","86700","Cursando",NULL,NULL,NULL,NULL,NULL
+"23763343","Victor Leonardo","Velez","GESTIONSEC_TDIP","Agosto 2023","86708","Cursando",NULL,NULL,NULL,NULL,NULL
+"20874647","Cecilia Andrea","Miatello","GESTIONSEC_TDIP","Agosto 2023","86709","Cursando",NULL,NULL,NULL,NULL,NULL
+"27423412","Carina Guadalupe","Gianoglio","GESTIONSEC_TDIP","Agosto 2023","86715","Cursando","1712","GESTIONSEC_TDIP","Marzo 2020","SISEDUC","Aprobado"
+"27423412","Carina Guadalupe","Gianoglio","GESTIONSEC_TDIP","Agosto 2023","86715","Cursando","1712","GESTIONSEC_TDIP","Marzo 2020","METODOLOGIAEDUC","Aprobado"
+"27423412","Carina Guadalupe","Gianoglio","GESTIONSEC_TDIP","Agosto 2023","86715","Cursando","1712","GESTIONSEC_TDIP","Mayo 2021 (finalización cohorte 2020)","METODOLOGIAEDUC","Equivalencia"
+"27423412","Carina Guadalupe","Gianoglio","GESTIONSEC_TDIP","Agosto 2023","86715","Cursando","1712","GESTIONSEC_TDIP","Mayo 2021 (finalización cohorte 2020)","SISEDUC","Equivalencia"
+"18217185","Carlos Martin","Torres","GESTIONSEC_TDIP","Agosto 2023","86719","Cursando",NULL,NULL,NULL,NULL,NULL
+"21902557","Liliana Beatriz","Borgogno","GESTIONSEC_TDIP","Agosto 2023","86723","Cursando","2579","GESTIONSEC_TDIP","Mayo 2021","METODOLOGIAEDUC","Aprobado"
+"21902557","Liliana Beatriz","Borgogno","GESTIONSEC_TDIP","Agosto 2023","86723","Cursando","2579","GESTIONSEC_TDIP","Mayo 2021","PEDAGOGIADIV_SEC","Aprobado"
+"23695547","Vanesa Carolina","Diaz","GESTIONSEC_TDIP","Agosto 2023","86775","Cursando",NULL,NULL,NULL,NULL,NULL
+"20597600","Nuria Leticia","Deu Perez","GESTIONSEC_TDIP","Agosto 2023","86785","Cursando",NULL,NULL,NULL,NULL,NULL
+"24637364","Alejandra Del Valle","Mercado","GESTIONSEC_TDIP","Agosto 2023","86809","Cursando",NULL,NULL,NULL,NULL,NULL
+"24614472","Mariana Ebe","Lobos","GESTIONSEC_TDIP","Agosto 2023","86842","Cursando",NULL,NULL,NULL,NULL,NULL
+"26750375","Gretel Mara","Hunzicker","GESTIONSEC_TDIP","Agosto 2023","86871","Cursando",NULL,NULL,NULL,NULL,NULL
+"28626238","Adriana Andrea","Gallardo","GESTIONSEC_TDIP","Agosto 2023","86874","Cursando",NULL,NULL,NULL,NULL,NULL
+"25286392","Veronica Karina","Maccagno","GESTIONSEC_TDIP","Agosto 2023","86876","Cursando",NULL,NULL,NULL,NULL,NULL
+"21902721","Marcela Alejandra","Cazzador","GESTIONSEC_TDIP","Agosto 2023","86886","Cursando",NULL,NULL,NULL,NULL,NULL
+"22186448","Norma Elina","Borghi","GESTIONSEC_TDIP","Agosto 2023","86894","Cursando",NULL,NULL,NULL,NULL,NULL
+"22076197","Analia Silvina","Barbosa","GESTIONSEC_TDIP","Agosto 2023","86927","Cursando","467","GESTIONSEC_TDIP","Mayo 2021","METODOLOGIAEDUC","Aprobado"
+"22076197","Analia Silvina","Barbosa","GESTIONSEC_TDIP","Agosto 2023","86927","Cursando","467","GESTIONSEC_TDIP","Mayo 2021","PEDAGOGIADIV_SEC","Aprobado"
+"22076197","Analia Silvina","Barbosa","GESTIONSEC_TDIP","Agosto 2023","86927","Cursando","467","GESTIONSEC_TDIP","Mayo 2021","ANALISIS_SEC","Aprobado"
+"23153463","Adriana Beatriz","Carrara","GESTIONSEC_TDIP","Agosto 2023","86945","Cursando",NULL,NULL,NULL,NULL,NULL
+"22161420","Elisa Mariela","Liendo","GESTIONSEC_TDIP","Agosto 2023","86959","Cursando",NULL,NULL,NULL,NULL,NULL
+"21404395","Monica Isabel","Cardozo","GESTIONSEC_TDIP","Agosto 2023","86982","Cursando",NULL,NULL,NULL,NULL,NULL
+"24736786","Marcela Virginia","Piatti","GESTIONSEC_TDIP","Agosto 2023","86988","Cursando",NULL,NULL,NULL,NULL,NULL
+"26646044","Nancy Natalia","Medina","GESTIONSEC_TDIP","Agosto 2023","87000","Inactivo",NULL,NULL,NULL,NULL,NULL
+"22752558","Viviana Patricia","Tolaba","GESTIONSEC_TDIP","Agosto 2023","87052","Cursando",NULL,NULL,NULL,NULL,NULL
+"22647749","Juan Jose","Quaranta","GESTIONSEC_TDIP","Agosto 2023","87087","Inactivo","100","GESTIONSEC_TDIP","Marzo 2020","SISEDUC","Aprobado"
+"22647749","Juan Jose","Quaranta","GESTIONSEC_TDIP","Agosto 2023","87087","Inactivo","100","GESTIONSEC_TDIP","Marzo 2020","METODOLOGIAEDUC","Aprobado"
+"22647749","Juan Jose","Quaranta","GESTIONSEC_TDIP","Agosto 2023","87087","Inactivo","100","GESTIONSEC_TDIP","Marzo 2020","ANALISIS_SEC","Aprobado"
+"22647749","Juan Jose","Quaranta","GESTIONSEC_TDIP","Agosto 2023","87087","Inactivo","100","GESTIONSEC_TDIP","Marzo 2020","PEDAGOGIADIV_SEC","Aprobado"
+"22647749","Juan Jose","Quaranta","GESTIONSEC_TDIP","Agosto 2023","87087","Inactivo","100","GESTIONSEC_TDIP","Mayo 2021 (finalización cohorte 2020)","METODOLOGIAEDUC","Equivalencia"
+"22647749","Juan Jose","Quaranta","GESTIONSEC_TDIP","Agosto 2023","87087","Inactivo","100","GESTIONSEC_TDIP","Mayo 2021 (finalización cohorte 2020)","PEDAGOGIADIV_SEC","Equivalencia"
+"22647749","Juan Jose","Quaranta","GESTIONSEC_TDIP","Agosto 2023","87087","Inactivo","100","GESTIONSEC_TDIP","Mayo 2021 (finalización cohorte 2020)","ANALISIS_SEC","Equivalencia"
+"22647749","Juan Jose","Quaranta","GESTIONSEC_TDIP","Agosto 2023","87087","Inactivo","100","GESTIONSEC_TDIP","Mayo 2021 (finalización cohorte 2020)","ESTADISTICA","Aprobado"
+"22647749","Juan Jose","Quaranta","GESTIONSEC_TDIP","Agosto 2023","87087","Inactivo","100","GESTIONSEC_TDIP","Mayo 2021 (finalización cohorte 2020)","SISEDUC","Equivalencia"
+"22373587","Gustavo Emilio","Jaime","GESTIONSEC_TDIP","Agosto 2023","87098","Cursando",NULL,NULL,NULL,NULL,NULL
+"18274294","Adriana Edith","Capdevila","GESTIONSEC_TDIP","Agosto 2023","87112","Cursando",NULL,NULL,NULL,NULL,NULL
+"21402634","Rebeca Amalia","Lancioni","GESTIONSEC_TDIP","Agosto 2023","87122","Cursando",NULL,NULL,NULL,NULL,NULL
+"21720052","María Mercedes","Palacios","GESTIONSEC_TDIP","Agosto 2023","87195","Cursando",NULL,NULL,NULL,NULL,NULL
+"24629972","Paola Natalia Del Valle","Ramirez","GESTIONSEC_TDIP","Agosto 2023","87233","Cursando condicional",NULL,NULL,NULL,NULL,NULL
+"20786486","Veronica Nancy","Belanich","GESTIONSEC_TDIP","Agosto 2023","87342","Inactivo",NULL,NULL,NULL,NULL,NULL
+"18850487","Jussara Maya","Galli","GESTIONSUP_TDIP","Agosto 2023","86645","Cursando",NULL,NULL,NULL,NULL,NULL
+"28993129","Marisel Veronica","Ozan","GESTIONSUP_TDIP","Agosto 2023","87102","Cursando",NULL,NULL,NULL,NULL,NULL
+"21864787","Veronica Beatriz","Arfenoni","GESTIONSUP_TDIP","Agosto 2023","87249","Cursando",NULL,NULL,NULL,NULL,NULL
