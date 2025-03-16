@@ -142,7 +142,8 @@ ggsave("output/mapa_personas_inscriptos_2022.png", plot_mapa_personas,
 
 
 mi_number <- function(x){
-  scales::label_number_si()(x)
+  #scales::label_number_si()(x)
+  scales::label_number()(x)
 }
 
 plot_mapa_personas <- ggplot(data_map) +
@@ -176,7 +177,7 @@ ggsave("output/mapa_personas_egresados_total.png", plot_mapa_personas, width = 5
 
 
 
-personas <- read_csv("data/inscriptos_2023/inscriptos_2023.csv")
+personas <- read_csv("data/inscriptos/inscriptos_2024.csv")
 
 
 personas_cba <- personas |> 
@@ -208,7 +209,7 @@ personas_cba <- personas |>
 
 personas_cba
 
-write_csv(personas_cba, "output/personas_unicas_inscriptas_2023.csv")
+write_csv(personas_cba, "output/personas_unicas_inscriptas_2024.csv")
 
 # Departamentos de CBA
 data_esp <- st_read("https://raw.githubusercontent.com/mgaitan/departamentos_argentina/master/departamentos-cordoba.topojson",
@@ -309,7 +310,7 @@ ggtext::geom_richtext(
 
 plot_mapa_personas
 
-ggsave("output/mapa_personas_inscriptos_2023.png", plot_mapa_personas, 
+ggsave("output/mapa_personas_inscriptos_2024.png", plot_mapa_personas, 
        width = 6, height = 7, dpi = 320)
 
 

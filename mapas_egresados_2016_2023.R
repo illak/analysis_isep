@@ -406,7 +406,8 @@ write_csv(datos_a_tabla, "output/egresados_ifda_tabla.csv")
 
 # mapa egresados 2016-2023 ------------------------------------------------
 
-personas <- read_csv("data/egresados_2016_2023_v2.csv")
+#personas <- read_csv("data/egresados_2016_2023_v2.csv")
+personas <- read_csv("data/pedido_17_10_2024/personas_unicas_egresadas_2016_2024.csv")
 
 # Departamentos de CBA
 data_esp <- st_read("https://raw.githubusercontent.com/mgaitan/departamentos_argentina/master/departamentos-cordoba.topojson",
@@ -491,8 +492,18 @@ data_map <- data_map |>
 library(ggtext)
 library(glue)
 
+
+# PRUEBAS FONTS
+library(showtext)
+# Habilitar showtext para renderizar las fuentes
+showtext_auto(enable = FALSE)
+# Agregar la fuente Roboto desde Google Fonts
+font_add_google("Roboto", "roboto")
+
+
+
 plot_mapa_personas <- ggplot(data_map) +
-  geom_sf(aes(fill = pct), linewidth = .4, color = "white") +
+  geom_sf(aes(fill = pct), linewidth = .2, color = "grey40") +
   #geom_sf(data = puntos_mapa_personas,
   #       color = "black") +
   #ggrepel::geom_label_repel(
@@ -510,15 +521,15 @@ plot_mapa_personas <- ggplot(data_map) +
   # ) +
 
   ggtext::geom_richtext(
-    aes(label = glue("<span style='font-size:5.9pt;'>{departamento.y |> str_wrap(width = 10)}</span>
-                     <br><span style='font-size:6.2pt;'>{total}</span>
-                     <br><span style='font-size:5.2pt;'>{pct |> 
+    aes(label = glue("<span style='font-size:6.1pt;'>{departamento.y |> str_wrap(width = 10)}</span>
+                     <br><span style='font-size:6.4pt;'>{total}</span>
+                     <br><span style='font-size:5.5pt;'>{pct |> 
                       scales::label_percent(accuracy=.1)()}</span>"),
         geometry = geometry,
         color = label_color),
       stat = "sf_coordinates",
       alpha = 1,
-      size = 1.7,
+      size = 1.8,
       #color = "grey40",
       label.color = NA,
       fill = NA,
@@ -536,13 +547,14 @@ plot_mapa_personas <- ggplot(data_map) +
 
 plot_mapa_personas
 
-ggsave("output/mapa_personas_egresados_2016_2023_todos.png", plot_mapa_personas, 
-       width = 6, height = 7, dpi = 320)
+ggsave("output/mapa_personas_unicas_egresadas_2016_2024.png", plot_mapa_personas, 
+       width = 6.5, height = 7.5, dpi = 320)
 
 
 
 mi_number <- function(x){
-  scales::label_number_si()(x)
+  #scales::label_number_si()(x)
+  scales::label_number(scale_cut = scales::cut_si(""))(x)
 }
 
 plot_mapa_personas <- ggplot(data_map) +

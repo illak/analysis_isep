@@ -1,27 +1,27 @@
 departamento,total,pct,pct_label,ID_ISEP,ID_MAPA,grupo,departamento_B,departamento_C
-Capital,1623,0.2886872998932764,28.869%,26,329,CENTRO,Capital,Capital
-Río Cuarto,491,0.08733546780505158,8.734%,13,343,SUR,Rio Cuarto,Río Cuarto
-San Justo,487,0.08662397723230167,8.662%,19,336,ESTE,San Justo,San Justo
-Colón,322,0.05727499110636784,5.727%,2,327,CENTRO,Colón,Colón
-Punilla,277,0.04927072216293134,4.927%,12,328,CENTRO,Punilla,Punilla
-Cruz del Eje,229,0.040732835289932406,4.073%,3,326,OESTE,Cruz del Eje,Cruz del Eje
-Unión,220,0.03913198150124511,3.913%,25,337,ESTE,Union,Unión
-Presidente Roque Sáenz Peña,202,0.03593027392387051,3.593%,11,393,SUR,Presidente Roque Sáenz Peña,Presidente Roque Sáenz Peña
-Tercero Arriba,197,0.03504091070793312,3.504%,22,341,CENTRO,Tercero Arriba,Tercero Arriba
-Santa María,195,0.03468516542155817,3.469%,20,330,CENTRO,Santa Maria,Santa María
-Río Segundo,170,0.03023834934187122,3.024%,16,335,CENTRO,Rio Segundo,Rio Segundo
-General San Martín,158,0.028103877623621487,2.810%,5,339,CENTRO,General San Martín,General San Martín
-Marcos Juárez,156,0.02774813233724653,2.775%,8,338,ESTE,Marcos Juárez,Marcos Juarez
-Ischilín,150,0.026680896478121666,2.668%,6,324,NORTE,Ischilin,Ischilín
-San Javier,136,0.024190679473496977,2.419%,18,334,OESTE,San Javier,San Javier
-San Alberto,108,0.0192102454642476,1.921%,17,333,OESTE,San Alberto,San Alberto
-Calamuchita,102,0.01814300960512273,1.814%,1,378,CENTRO,Calamuchita,Calamuchita
-Río Primero,95,0.01689790110281039,1.690%,14,340,CENTRO,Río Primero,Río Primero
-Juárez Celman,81,0.0144076840981857,1.441%,7,342,SUR,Juarez Celman,Juárez Celman
-General Roca,65,0.011561721807186055,1.156%,4,397,SUR,General Roca,General Roca
-Totoral,38,0.006759160441124155,0.676%,23,325,NORTE,Totoral,Totoral
-Tulumba,33,0.005869797225186766,0.587%,24,323,NORTE,Tulumba,Tulumba
-Río Seco,31,0.005514051938811811,0.551%,15,433,NORTE,Rio Seco,Río Seco
-Pocho,23,0.004091070793311989,0.409%,10,332,OESTE,Pocho,Pocho
-Minas,19,0.0033795802205620774,0.338%,9,331,OESTE,Minas,Minas
-Sobremonte,14,0.0024902170046246885,0.249%,21,322,NORTE,Sobremonte,Sobremonte
+Capital,1731,0.3314187248707639,33.142%,26,329,CENTRO,Capital,Capital
+Río Cuarto,435,0.0832854681217691,8.329%,13,343,SUR,Rio Cuarto,Río Cuarto
+San Justo,340,0.06509668772735976,6.510%,19,336,ESTE,San Justo,San Justo
+Colón,314,0.060118705724679304,6.012%,2,327,CENTRO,Colón,Colón
+Punilla,249,0.04767375071797817,4.767%,12,328,CENTRO,Punilla,Punilla
+Unión,205,0.03924947348267279,3.925%,25,337,ESTE,Union,Unión
+Santa María,193,0.036951943327589505,3.695%,20,330,CENTRO,Santa Maria,Santa María
+Marcos Juárez,171,0.032739804709936815,3.274%,8,338,ESTE,Marcos Juárez,Marcos Juarez
+Tercero Arriba,165,0.03159103963239517,3.159%,22,341,CENTRO,Tercero Arriba,Tercero Arriba
+Cruz del Eje,164,0.031399578786138235,3.140%,3,326,OESTE,Cruz del Eje,Cruz del Eje
+Presidente Roque Sáenz Peña,162,0.031016657093624354,3.102%,11,393,SUR,Presidente Roque Sáenz Peña,Presidente Roque Sáenz Peña
+Río Segundo,162,0.031016657093624354,3.102%,16,335,CENTRO,Rio Segundo,Rio Segundo
+San Javier,159,0.030442274554853533,3.044%,18,334,OESTE,San Javier,San Javier
+General San Martín,132,0.02527283170591614,2.527%,5,339,CENTRO,General San Martín,General San Martín
+Calamuchita,100,0.019146084625694046,1.915%,1,378,CENTRO,Calamuchita,Calamuchita
+San Alberto,100,0.019146084625694046,1.915%,17,333,OESTE,San Alberto,San Alberto
+Ischilín,90,0.01723147616312464,1.723%,6,324,NORTE,Ischilin,Ischilín
+Juárez Celman,79,0.015125406854298296,1.513%,7,342,SUR,Juarez Celman,Juárez Celman
+Río Primero,76,0.014551024315527475,1.455%,14,340,CENTRO,Río Primero,Río Primero
+General Roca,66,0.01263641585295807,1.264%,4,397,SUR,General Roca,General Roca
+Río Seco,35,0.006701129618992916,0.670%,15,433,NORTE,Rio Seco,Río Seco
+Tulumba,28,0.005360903695194333,0.536%,24,323,NORTE,Tulumba,Tulumba
+Pocho,23,0.0044035994639096306,0.440%,10,332,OESTE,Pocho,Pocho
+Totoral,22,0.00421213861765269,0.421%,23,325,NORTE,Totoral,Totoral
+Minas,15,0.002871912693854107,0.287%,9,331,OESTE,Minas,Minas
+Sobremonte,7,0.0013402259237985832,0.134%,21,322,NORTE,Sobremonte,Sobremonte
