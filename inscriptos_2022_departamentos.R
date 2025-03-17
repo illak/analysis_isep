@@ -184,6 +184,7 @@ personas_cba <- personas |>
   filter(provincia %in% c("Córdoba","Cordoba")) |> 
   mutate(departamento = case_when(
     departamento == "Pte. Roque Saenz Peña" ~ "Presidente Roque Sáenz Peña",
+    departamento == "Presidente Roque Saenz Peña" ~ "Presidente Roque Sáenz Peña",
     departamento == "Rio Cuarto" ~ "Río Cuarto",
     departamento == "Rio Primero" ~ "Río Primero",
     departamento == "Marcos Juarez" ~ "Marcos Juárez",
@@ -268,7 +269,7 @@ data_map <- data_map |>
 
 
 plot_mapa_personas <- ggplot(data_map) +
-  geom_sf(aes(fill = pct), linewidth = .5, color = "white") +
+  geom_sf(aes(fill = pct), linewidth = .4, color = "grey70") +
   #geom_sf(data = puntos_mapa_personas,
   #       color = "black") +
   #ggrepel::geom_label_repel(
@@ -292,7 +293,7 @@ ggtext::geom_richtext(
       color = label_color),
   stat = "sf_coordinates",
   alpha = 1,
-  size = 1.9,
+  size = 2.1,
   #color = "grey40",
   label.color = NA,
   fill = NA,
